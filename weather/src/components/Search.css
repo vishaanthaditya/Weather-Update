@@ -1,0 +1,23 @@
+.table2{
+    box-sizing: border-box;
+    table-layout:auto;
+    font-family: Okra, Helvetica, sans-serif;
+    width: 90%;
+    border-collapse:collapse;
+    margin-top: 70px;
+}
+
+.table2 td,.table2 th{
+    border:2px solid black;
+    height:30px;
+}
+.table2 th{
+    background-color: black;
+    color: white;
+}
+.container3{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column;
+}

@@ -1,0 +1,30 @@
+.cover {
+    background-color: rgb(252, 252, 252);
+    margin-left: 540px;
+    margin-top: 90px;
+    width: 500px;
+    height: 600px;
+    position: relative;
+    border-radius: 1em;
+    box-shadow: 0 0.188em 1.550em rgb(156, 156, 156);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.login {
+    width: 250px;
+    height: 50px;
+    box-shadow: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.login-btn
+{
+    border-radius: 20px;
+    padding-top: 5px;
+    width:320px;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,46 @@
+.navbar{
+    background-color: black;
+    border: 10px;
+}
+.navbar .navbarcomp1{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    text-decoration: none;
+}
+.one{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+.one:hover{
+    color: rgb(0, 221, 255);
+    transform: scale(1.04);
+}
+.two{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+.two:hover{
+    color: rgb(0, 221, 255);
+    transform: scale(1.04);
+}
+.searchbar{
+    margin-top: 50px;
+    text-align: center;
+}
+.Box{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.header{
+    font-family: Okra, Helvetica, sans-serif;
+    text-align: center;
+}
+.loandet{
+    background-color: black;
+    height: 700px;
+    
+}
